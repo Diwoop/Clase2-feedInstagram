@@ -1,0 +1,8 @@
+.img-fixed-size {
+    width: 100%;
+    height: auto;
+  }
+  .fixed-size-container {
+    max-width: 100%;
+    height: auto;
+  }
